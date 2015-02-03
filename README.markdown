@@ -92,3 +92,11 @@ This application and the ideas it's based upon is built on the work of others:
 * [Heroku buildpack for PHP](https://github.com/heroku/heroku-buildpack-php)
 * [Heroku Cedar Stack](https://devcenter.heroku.com/articles/cedar)
 * [ZendSkeletonApplication](https://github.com/zendframework/ZendSkeletonApplication)
+
+
+
+on apcera continuum
+demo@vm:~/zf2-heroku$  curl -F body="/" http://zf2.ewagxig17.continuum-demo.io
+Application is loading !demo@vm:~/zf2-heroku$
+
+zf2                │ /sandbox/admin │ started │ 1/1       │ http://zf2.ewagxig17.continuum-demo.io
